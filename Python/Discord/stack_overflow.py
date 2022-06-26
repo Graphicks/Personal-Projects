@@ -17,4 +17,4 @@ async def pin_messages(ctx, limit=100):
            #     await message.pin()
 
 
-bot.run('OTY1NTkyMjU5MDg3MTgzOTE0.GOvX65.N_pAo-fKa5KP_bVm1xzS-6dv9U0W0VoGBhJuas')
+bot.run('')
